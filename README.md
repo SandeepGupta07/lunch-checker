@@ -1,2 +1,2 @@
-# assignment1
-Lunch Checker Small Module in angular
+# Lunch Checker
+Lunch Checker Module in angular
